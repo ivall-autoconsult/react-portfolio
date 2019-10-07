@@ -1,0 +1,10 @@
+.about {
+    font-family: "Roboto", "Trebuchet MS", "Arial";
+    padding-left: 240px;
+}
+
+h1 {
+    padding-top: 15px;
+    text-align: left;
+    color: #000;
+}

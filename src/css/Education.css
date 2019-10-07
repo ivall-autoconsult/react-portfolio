@@ -1,0 +1,37 @@
+.education {
+	font-family: "Roboto", "Trebuchet MS", "Arial";
+    padding-left: 240px;
+    padding-right: 30px;
+}
+
+h1 {
+    padding-top: 15px;
+    text-align: left;
+    color: #000;
+}
+
+.education h2 {
+    padding-top: 15px;
+    text-align: left;
+    color: #000;
+}
+
+.education img {
+    height: 200px;
+    width: 150px;
+    outline: black solid 2px;
+    padding: 15px;
+}
+
+.progress {
+    height: 35px;
+    padding: 3px;
+}
+
+
+.table th {
+    font-size: 10pt;
+    font-style: oblique;
+    font-weight: bolder;
+}
+

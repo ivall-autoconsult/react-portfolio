@@ -1,0 +1,28 @@
+.projects {
+	font-family: "Roboto", "Trebuchet MS", "Arial";
+    padding-left: 240px;
+}
+
+h1 {
+    padding-top: 15px;
+    text-align: left;
+    color: #000;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    text-align: center;
+}
+
+
+.card img {
+    text-align: center;
+    height: 180px;
+}
+
+.row {
+    padding-top:20px;
+
+}
